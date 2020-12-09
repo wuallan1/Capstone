@@ -1,6 +1,0 @@
-#Coursera Capstone  - Part 1
-##This is project is to demonstrate what Ive learned through this course.*
-
-Import pandas as pd
-import numpy as np
-print("Hello Capstone Project Course!")
